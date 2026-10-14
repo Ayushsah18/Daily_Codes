@@ -1,1 +1,15 @@
+# Compiled C/C++ executables
 calculator
+print
+hello
+a.out
+
+# Object files
+*.o
+*.out
+
+# Compiled Java files
+*.class
+
+# macOS files
+.DS_Store
